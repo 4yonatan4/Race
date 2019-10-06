@@ -1,7 +1,7 @@
 # Race
 
 TO DO:
-1. Menu - add some animation, option tu mute sound
+1. Menu - add some animation, option to mute sound
 2. level1 - add some BG music,
 3. level2
 4. end-screen
